@@ -8,7 +8,6 @@ This project implements a data structure called **dynamic vector** in Java. It a
 - Add elements to the vector if there is space available.
 - Prevent adding new elements when the vector is full.
 
-```
 
 ## How to Use
 1. **Create a vector with a fixed capacity:**
